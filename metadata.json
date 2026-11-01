@@ -1,0 +1,6 @@
+{
+  "name": "TOURISTO — Travel Smart. Travel Safe.",
+  "description": "Your AI Travel Companion in India — Featuring Banknote Scanner, Scam Detector, Voice Translator, Currency Calculator, Safe Routes, and Emergency SOS.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
